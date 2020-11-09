@@ -158,8 +158,8 @@ export default {
   margin-bottom: 20px;
 }
 .game__buttons {
-  width: 500px;
-  height: 500px;
+  width: 505px;
+  height: 505px;
   border-radius: 50%;
   display: flex;
   flex-direction: column;
@@ -172,13 +172,13 @@ export default {
   display: flex;
 }
 .buttons__group_1 div {
-  border: 3px solid rgb(0, 0, 0);
+  border: 1px solid rgb(0, 0, 0);
   width: 250px;
   height: 250px
 }
 
 .buttons__group_2 div {
-  border: 3px solid rgb(0, 0, 0);
+  border: 1px solid rgb(0, 0, 0);
   width: 250px;
   height: 250px
 }
